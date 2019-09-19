@@ -32,3 +32,4 @@
 * Ingredient choosing: Allows user to search for recipes using one specific ingredient.
 * Meats choosing: Allows users to choose a kind of meat additionaly to ingredients and finding the best recipe for you.
 * Meal Type Choosing: Allows the user the choose what type of meal they're looking for. Healthy, vegan, protein, etc.
+* Recipe Saving: Allows a user to save a limited number of recipes to a Favorites Database.
