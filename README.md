@@ -25,6 +25,7 @@
 * [Discord Bot](https://discordapp.com/developers/applications/)
 * [Python](https://www.python.org/downloads/)
 * [Discord API](https://discordpy.readthedocs.io/en/latest/api.html)
+* [Digital Ocean](https://www.digitalocean.com)
 
 ## Features
 * Show Searching: Allows the user to search for a show.
