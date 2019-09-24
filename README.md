@@ -19,7 +19,7 @@
 * [Features](#features)
 
 ## General Info
-  If you would like to invite the bot to your discord, * [Please Click Here](https://discordapp.com/api/oauth2/authorize?client_id=623906771500662795&permissions=0&scope=bot)
+  If you would like to invite the bot to your discord, [Please Click Here](https://discordapp.com/api/oauth2/authorize?client_id=623906771500662795&permissions=0&scope=bot)
 
 ## Technologies
 * PC's
