@@ -21,7 +21,7 @@ async def on_ready():
     print('Guilds: ', str(len(bot.guilds)))
     print('Users: ', str(len(set(bot.get_all_members()))))
 
-@bot.command(pas_context=True)
+@bot.command(pass_context=True)
 async def ping(ctx):
     await ctx.send("Pong")
 
