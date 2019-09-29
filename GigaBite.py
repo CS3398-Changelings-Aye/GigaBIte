@@ -29,7 +29,7 @@ async def on_ready():
 async def clear(ctx, number: int):
     deleted = await TextChannel.purge(ctx.message.channel, limit=number)
     msg = 'Deleted {} Messages'.format(len(deleted))
-    await ctx.send(msg, delete_after=5)
+    await ctx.send(msg, delete_after=10)
 
 for file in os.listdir('cogs'):
     name = file[:-3]
