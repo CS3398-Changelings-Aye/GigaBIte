@@ -15,8 +15,8 @@ class Ingredients(commands.Cog):
             i = 1
             for line in f:
                 if userInput in line:
-                    await ctx.send(re.sub("\s\s+", " ",str(i) + ") " + line.lower().title().strip()))
-                    # print(re.sub("\s\s+", " ",str(i) + ") " + line.lower().title().strip()))
+                    # await ctx.send(re.sub("\s\s+", " ",str(i) + ") " + line.lower().title().strip()))
+                    print(re.sub("\s\s+", " ",str(i) + ") " + line.lower().title().strip()))
                     i = i + 1;
 
 def setup(bot):
