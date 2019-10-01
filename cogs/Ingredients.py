@@ -21,10 +21,6 @@ class Ingredients(commands.Cog):
                     # await ctx.send(line)
                     print(line)
 
-                # if line:
-                    #print(line)
-                    # print(line[0])
-            # print(IGList)
 
 def setup(bot):
     bot.add_cog(Ingredients(bot))
