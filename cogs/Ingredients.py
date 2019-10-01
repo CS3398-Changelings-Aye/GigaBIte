@@ -1,6 +1,7 @@
 import discord
 from discord.ext import commands
 import sys
+import re
 
 class Ingredients(commands.Cog):
 
@@ -9,18 +10,14 @@ class Ingredients(commands.Cog):
 
     @commands.command()
     async def Cook(self, ctx, userInput):
-        IGList = []
 
         with open(r"IGDBOut.txt", "r") as f:
-            # IGList = f.read()
-            InputSize = len(userInput)
+            i = 1
             for line in f:
-                # InputSize = len(line)
-                line = line.strip()
                 if userInput in line:
-                    # await ctx.send(line)
-                    print(line)
-
+                    await ctx.send(re.sub("\s\s+", " ",str(i) + ") " + line.lower().title().strip()))
+                    # print(re.sub("\s\s+", " ",str(i) + ") " + line.lower().title().strip()))
+                    i = i + 1;
 
 def setup(bot):
     bot.add_cog(Ingredients(bot))
