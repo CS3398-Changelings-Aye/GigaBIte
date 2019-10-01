@@ -1,0 +1,46 @@
+import discord
+from discord.ext import commands
+import json
+
+
+def load_creds():
+    with open('credentials.json') as f:
+        return json.load(f)
+
+
+bot = commands.Bot(command_prefix="!")
+
+creds = load_creds()
+token = creds['token']
+id = bot.get_guild(623651335316963339)
+
+@bot.event
+async def on_ready():
+    print('Welcome to Gigabite: ' + str(bot.user.name) + '\n')
+    print('Id: ' + str(bot.user.id))
+    print('Guilds: ', str(len(bot.guilds)))
+    print('Users: ', str(len(set(bot.get_all_members()))))
+
+@bot.command(pass_context=True)
+async def ping(ctx):
+    await ctx.send("Pong")
+
+@bot.command(pass_context=True)
+async def helpme(ctx):
+    await ctx.send("How may I help you today? PLease spell out the number for your question.")
+    await ctx.send("1) Who is Chef G?"
+                   "2) How do I ask Chef G for a recipe?"
+                   "3) What will Chef G send back?")
+@bot.command(pass_context=True)
+async def one(ctx):
+    await ctx.send("My name is Chef G and I am here to help you find recipes with the ingredients you have!")
+    
+@bot.command(pass_context=True)
+async def two(ctx):
+    await ctx.send("Simply send me the name of an ingredient that you have! I'll take care of the rest.")
+    
+@bot.command(pass_context=True)
+async def three(ctx):
+    await ctx.send("I'll send you a few recipes that I find with the ingredient you listed.")
+
+bot.run(token)
