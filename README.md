@@ -39,8 +39,8 @@
 * Recipe Saving: Allows a user to save a limited number of recipes to a Favorites Database.
 
 ## Contributions
-*Nicole Runas: 
-*Dalton Melivlle:
-*Sebastian Santana:
-*Nisa Lateef:
-*Wilson Benitez:
+* Nicole Runas: Help menu and friendly user interface, including friendly repsonses and an icon for the Bot. These help the Bot appear                   welcoming to users and serve to make the Bot feel more like an actual person. I also found an ingredient database to be                 used for the Bot to complete searches against. Artifacts corresposnging to these can separately be found in the branch                   Lo and integreated into the cogs file on the master branch.
+* Dalton Melivlle:
+* Sebastian Santana:
+* Nisa Lateef:
+* Wilson Benitez:
