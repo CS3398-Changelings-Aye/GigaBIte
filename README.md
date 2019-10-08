@@ -6,6 +6,10 @@
   ## Description:
   We are creating a Discord Bot that is able to search for recipes with a certain ingredient. This will be for those who love to cook or what to love to cook but don't have time or the knowledge to find recipes on their own. It is being done in order to offer a simplistic and easy way to obtain a variety of different recipes without the hastle of searching through blogs. 
   
+  ## Status
+  * InProgress: Beta Testing. 
+  * Our bot Currently has functionality on a small number of servers and can complete simple tasks to engage the user and return recipes from a database as well as search the web for more specific ingredients or recipes and return the data.
+  
   ## Team Members:
   > Dalton Melville,
   > Nicole Runas,
@@ -44,3 +48,13 @@
 * Sebastian Santana:
 * Nisa Lateef:
 * Wilson Benitez:
+
+
+## Next Steps
+ * Dalton Melville:
+ * Nicole Runas:
+ * Sebastian Santana:
+ * Nisa Lateef:
+ * Wilson Benitez:
+ 
+ ## Retrospective
