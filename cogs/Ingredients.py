@@ -14,7 +14,7 @@ class Ingredients(commands.Cog):
 
     @commands.command()
     async def Cook(self, ctx, *, userInput):
-        charmander =
+        x = userInput.splitlines()
         em = discord.Embed(title="Types of Recipes", description="Heres a list of Ingredients that includes " + str(userInput))
         em.set_author(name=self.bot.user.name)
         em.colour = 0xFF0000
