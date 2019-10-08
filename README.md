@@ -47,8 +47,8 @@
 
 * Dalton Melivlle:
 
-* Sebastian Santana:
-
+* Sebastian Santana: Researching how to implement a .io database so that the discord bot can either use beautiful soup or some other method to find recipes with that database. Also created and helped edit and organize some of the basic discord code as well as researching and learning the varios discord API methods. Lastly coded a basic user calling function for the discord bot to attempt and familiarize myself with the API more. 
+ 
 * Nisa Lateef: Found a database that is used as a way to allow the user to access basic categories that they desire for their recipe. Coded a welcome page that introduces the bot and it's authors. 
 
 * Wilson Benitez:
@@ -57,25 +57,23 @@
 ## Next Steps
  * Dalton Melville:
  * Nicole Runas:
- * Sebastian Santana:
+ * Sebastian Santana: Continue database research and Push more into the programming aspect.
  * Nisa Lateef:
  * Wilson Benitez:
  
  ## Retrospective
  What Went Well or maybe not?
+ * Team desperately needs to communicate more as well as outline tasks and assess what everyone can and can not do. The basic creation of the bot went relatively well but it seems that a majority of our group does not understand the code or is a bit confused on the aspect. The group should try and meet every week to discuss goals and updates on the project outside of class for at least 1 hour. 
+ 
  
 (Team) Four or more team bullets
 * We we're able to get a considerable amount done, even though we had more we wanted to do. We were able to get some fully functional code and have the bot work.
 
+
 (Individual) One bullet per team member.
 * Dalton Melivlle:
-
-* Nisa Lateef:
-
 * Nicole Runas:
-
-* Sebastian Santana: 
-
+* Sebastian Santana: I feel like I learned a lot of the basic fundamentals during this sprint but due to a lack of communication I feel like a lot of time was not very well spent on my end. I need to push for better communication with my team and learn to manage time better.
 * Wilson Benitez: 
 
 What Might Be Impeding Us from Performing Better?
@@ -90,11 +88,9 @@ measurable improvement action described
 
 * Dalton Melivlle:
 
-* Nisa Lateef: We will communicate better by meeting up once a week. Preferebly once a weekend or even on Wednesday Morning and go over what we're having trouble with when it comes to finding databases for the bot, going over our next steps, helping each other out, etc.
-
 * Nicole Runas:
 
-* Sebastian Santana: 
+* Sebastian Santana: Communicate and meet up more. We need to be able to understand where and what everyone is doing or how they are understanding the project. 
 
 * Wilson Benitez: 
 
