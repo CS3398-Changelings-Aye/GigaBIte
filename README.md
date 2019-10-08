@@ -17,6 +17,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Features](#features)
+* [Contributions](#contributions)
 
 ## General Info
   If you would like to invite the bot to your discord, [Please Click Here](https://discordapp.com/api/oauth2/authorize?client_id=623906771500662795&permissions=0&scope=bot)
@@ -36,3 +37,10 @@
 * Meats choosing: Allows users to choose a kind of meat additionaly to ingredients and finding the best recipe for you.
 * Meal Type Choosing: Allows the user the choose what type of meal they're looking for. Healthy, vegan, protein, etc.
 * Recipe Saving: Allows a user to save a limited number of recipes to a Favorites Database.
+
+## Contributions
+*Nicole Runas: 
+*Dalton Melivlle:
+*Sebastian Santana:
+*Nisa Lateef:
+*Wilson Benitez:
