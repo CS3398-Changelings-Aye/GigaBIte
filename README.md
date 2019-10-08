@@ -72,3 +72,22 @@
 * Nicole Runas:
 * Sebastian Santana: 
 * Wilson Benitez: 
+
+What Might Be Impeding Us from Performing Better?
+  (Team) One or more team bullets
+  
+What Can We do to Improve?
+
+(Team) One or more team bullets
+
+(Individual) One bullet per team member with specific,
+measurable improvement action described
+
+* Dalton Melivlle:
+
+* Nicole Runas:
+
+* Sebastian Santana: 
+
+* Wilson Benitez: 
+
