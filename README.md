@@ -69,8 +69,13 @@
 
 (Individual) One bullet per team member.
 * Dalton Melivlle:
+
+* Nisa Lateef:
+
 * Nicole Runas:
+
 * Sebastian Santana: 
+
 * Wilson Benitez: 
 
 What Might Be Impeding Us from Performing Better?
@@ -84,6 +89,8 @@ What Can We do to Improve?
 measurable improvement action described
 
 * Dalton Melivlle:
+
+* Nisa Lateef: We will communicate better by meeting up once a week. Preferebly once a weekend or even on Wednesday Morning and go over what we're having trouble with when it comes to finding databases for the bot, going over our next steps, helping each other out, etc.
 
 * Nicole Runas:
 
