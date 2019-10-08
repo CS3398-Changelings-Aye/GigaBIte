@@ -5,7 +5,8 @@ import re
 from bs4 import BeautifulSoup
 import csv
 from itertools import zip_longest
-from spoonacular import API
+import requests
+
 
 class Ingredients(commands.Cog):
 
@@ -14,6 +15,7 @@ class Ingredients(commands.Cog):
 
     @commands.command()
     async def Cook(self, ctx, *, userInput):
+        print(userInput)
         x = userInput.splitlines()
         em = discord.Embed(title="Types of Recipes", description="Heres a list of Ingredients that includes " + str(userInput))
         em.set_author(name=self.bot.user.name)
@@ -46,5 +48,21 @@ class Ingredients(commands.Cog):
         # print(line)
         # if Ingredients in var:
         #     print("OwO" + str(Ingredients))
+
+    @commands.command()
+    async def Search(self, ctx, *, userinput):
+
+        print(userinput)
+        soup = BeautifulSoup(userinput, 'html.parser')
+        with requests.Session() as k:
+            url = 'https://www.google.com/search?q='
+            userinput = {'q': userinput}
+            link = requests.get(url, params=userinput)
+        em = discord.Embed(title="Search Results", description="Here is your results")
+        em.colour = 0xFFFA
+        em.add_field(name="Link to site", value=link.url)
+        await ctx.send(embed=em)
+
+
 def setup(bot):
     bot.add_cog(Ingredients(bot))
