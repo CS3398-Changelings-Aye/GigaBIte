@@ -65,10 +65,7 @@
  What Went Well or maybe not?
  
 (Team) Four or more team bullets
-*
-*
-*
-*
+* We we're able to get a considerable amount done, even though we had more we wanted to do. We were able to get some fully functional code and have the bot work.
 
 (Individual) One bullet per team member.
 * Dalton Melivlle:
