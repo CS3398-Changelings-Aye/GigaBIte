@@ -44,9 +44,13 @@
 
 ## Contributions
 * Nicole Runas: Help menu and friendly user interface, including friendly repsonses and an icon for the Bot. These help the Bot appear                   welcoming to users and serve to make the Bot feel more like an actual person. I also found an ingredient database to be                 used for the Bot to complete searches against. The databse is used whenever a user send an ingredient to the                             Bot.Artifacts corresposnging to these can separately be found in the branch Lo and integreated into the cogs file on the                 master branch.
+
 * Dalton Melivlle:
+
 * Sebastian Santana:
-* Nisa Lateef:
+
+* Nisa Lateef: Found a database that is used as a way to allow the user to access basic categories that they desire for their recipe. Coded a welcome page that introduces the bot and it's authors. 
+
 * Wilson Benitez:
 
 
@@ -58,3 +62,15 @@
  * Wilson Benitez:
  
  ## Retrospective
+ What Went Well or maybe not?
+(Team) Four or more team bullets
+*
+*
+*
+*
+
+(Individual) One bullet per team member.
+* Dalton Melivlle:
+* Nicole Runas:
+* Sebastian Santana: 
+* Wilson Benitez: 
