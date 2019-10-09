@@ -56,7 +56,7 @@
 
 ## Next Steps
  * Dalton Melville:
- * Nicole Runas: Continue to learn more about coding in Python and help expand the online searching functionality of the bot.
+ * Nicole Runas: Continue to learn more about coding in Python and help expand the online searching functionality of the bot. Currently: researching how to have a bot search the web.
  * Sebastian Santana: Continue database research and Push more into the programming aspect.
  * Nisa Lateef:
  * Wilson Benitez:
