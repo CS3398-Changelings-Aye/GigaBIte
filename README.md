@@ -49,16 +49,16 @@
 
 * Sebastian Santana: Researching how to implement a .io database so that the discord bot can either use beautiful soup or some other method to find recipes with that database. Also created and helped edit and organize some of the basic discord code as well as researching and learning the varios discord API methods. Lastly coded a basic user calling function for the discord bot to attempt and familiarize myself with the API more. 
  
-* Nisa Lateef: Found a database that is used as a way to allow the user to access basic categories that they desire for their recipe. Coded a welcome page that introduces the bot and it's authors. 
+* Nisa Lateef: Found a database that is used as a way to allow the user to access basic categories that they desire for their recipe. Coded a welcome page that introduces the bot and it's authors. Also found another database that can be used for recipes to expand the amount of ingridents the bot can recommend. 
 
 * Wilson Benitez:
 
 
 ## Next Steps
  * Dalton Melville:
- * Nicole Runas: Continue to learn more about coding in Python and help expand the online searching functionality of the bot. Currently: researching how to have a bot search the web.
+ * Nicole Runas: Continue to learn more about coding in Python and help expand the online searching functionality of the bot.
  * Sebastian Santana: Continue database research and Push more into the programming aspect.
- * Nisa Lateef:
+ * Nisa Lateef: Enhancing my skills in python, and further applying them into the project, as well as expanding the bot's                     functionality.
  * Wilson Benitez:
  
  ## Retrospective
@@ -75,8 +75,13 @@
 
 (Individual) One bullet per team member.
 * Dalton Melivlle:
+
 * Nicole Runas: I feel like I was able to get more comfortable wokring in a new coding language and trying to utilize using new design patterns.
+
 * Sebastian Santana: I feel like I learned a lot of the basic fundamentals during this sprint but due to a lack of communication I feel like a lot of time was not very well spent on my end. I need to push for better communication with my team and learn to manage time better.
+
+* Nisa Lateef: I had coded in python before for a bit, but applying the skills I had learned to code a discord bot was interesting. I was able to feel more comfortable with using a different language then the ones I normally use. In the future, I would like to manage my time better, and communicate better with the team whenever I am stuck.
+
 * Wilson Benitez: 
 
 What Might Be Impeding Us from Performing Better?
@@ -100,6 +105,8 @@ measurable improvement action described
 * Dalton Melivlle:
 
 * Sebastian Santana: Communicate and meet up more. We need to be able to understand where and what everyone is doing or how they are understanding the project. 
+
+* Nisa Lateef: Once a week, it's important to meet up with the team so we can discuss the project and help out whenever someone doesn't understand something. 
 
 * Wilson Benitez: 
 
