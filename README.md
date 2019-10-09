@@ -43,7 +43,7 @@
 * Recipe Saving: Allows a user to save a limited number of recipes to a Favorites Database.
 
 ## Contributions
-* Nicole Runas: Help menu and friendly user interface, including friendly repsonses and an icon for the Bot. These help the Bot appear                   welcoming to users and serve to make the Bot feel more like an actual person. I also found an ingredient database to be                 used for the Bot to complete searches against. The databse is used whenever a user send an ingredient to the                             Bot.Artifacts corresposnging to these can separately be found in the branch Lo and integreated into the cogs file on the                 master branch.
+* Nicole Runas: Help menu and friendly user interface, including friendly repsonses and an icon for the Bot. These help the Bot appear                   welcoming to users and serve to make the Bot feel more like an actual person. I also found an ingredient database to be                 used for the Bot to complete searches against. The databse is used whenever a user send an ingredient to the                             Bot. Artifacts corresposnging to these can separately be found in the branch Lo and integreated into the cogs file on the                 master branch.
 
 * Dalton Melivlle:
 
@@ -56,39 +56,48 @@
 
 ## Next Steps
  * Dalton Melville:
- * Nicole Runas:
+ * Nicole Runas: Continue to learn more about coding in Python and help expand the online searching functionality of the bot.
  * Sebastian Santana: Continue database research and Push more into the programming aspect.
  * Nisa Lateef:
  * Wilson Benitez:
  
  ## Retrospective
  What Went Well or maybe not?
- * Team desperately needs to communicate more as well as outline tasks and assess what everyone can and can not do. The basic creation of the bot went relatively well but it seems that a majority of our group does not understand the code or is a bit confused on the aspect. The group should try and meet every week to discuss goals and updates on the project outside of class for at least 1 hour. 
+ * Team needs to communicate more as well as outline tasks and assess what everyone can and can not do. The basic creation of the bot went relatively well but we need to wor on overall group understanding. The group should try and meet every week to discuss goals and updates on the project outside of class for at least 1 hour. 
  
  
 (Team) Four or more team bullets
 * We we're able to get a considerable amount done, even though we had more we wanted to do. We were able to get some fully functional code and have the bot work.
+* We had many great ideas that need to be expanded upon and borken down more into workable points for the next sprint.
+* Different team memebers not familiar with the programming language stepped up and contributed code to the overall project, furthering the team's progress and their own understanding.
+* Team memebers were individually proactive and assigned themseles previously unassigned tasks to further along the project.
 
 
 (Individual) One bullet per team member.
 * Dalton Melivlle:
-* Nicole Runas:
+* Nicole Runas: I feel like I was able to get more comfortable wokring in a new coding language and trying to utilize using new design patterns.
 * Sebastian Santana: I feel like I learned a lot of the basic fundamentals during this sprint but due to a lack of communication I feel like a lot of time was not very well spent on my end. I need to push for better communication with my team and learn to manage time better.
 * Wilson Benitez: 
 
 What Might Be Impeding Us from Performing Better?
   (Team) One or more team bullets
+  * The team need to find time where everyone can meet outside of class to discuss the project.
   
 What Can We do to Improve?
 
 (Team) One or more team bullets
+* Meet outside of class
+* Communicate when commits/changes are being made
+* Notify the team when stuggling with a certain aspect of their assigned task
+* Ask teammates questions and communicate about any roadbloacks
+
 
 (Individual) One bullet per team member with specific,
 measurable improvement action described
 
-* Dalton Melivlle:
+* Nicole Runas: To improve my skills, I will attempt to create my own dscord bots outside of the class and try to expland their functionality to learn more about integrating bots with apis and utilizing other design patters. I will upload key bits of working code onto my personal repositories to track my progress.
 
-* Nicole Runas:
+* Dalton Melivlle:
 
 * Sebastian Santana: Communicate and meet up more. We need to be able to understand where and what everyone is doing or how they are understanding the project. 
 
