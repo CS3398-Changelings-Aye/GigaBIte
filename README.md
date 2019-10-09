@@ -45,25 +45,25 @@
 ## Contributions
 * Nicole Runas: Help menu and friendly user interface, including friendly repsonses and an icon for the Bot. These help the Bot appear                   welcoming to users and serve to make the Bot feel more like an actual person. I also found an ingredient database to be                 used for the Bot to complete searches against. The databse is used whenever a user send an ingredient to the                             Bot. Artifacts corresposnging to these can separately be found in the branch Lo and integreated into the cogs file on the                 master branch.
 
-* Dalton Melivlle:
+* Dalton Melivlle: Created/Setup Discord server along with the bot, took a database of ingredients and created a script to only show the ingredients and it's typing. Worked with Wilson to create a script that would look for the users input and return an ingredient matching their input. Implemented a small database of recipes with their ingredients, was able to use what wilson and I created to search through the recipe database. Created the Search function which allows a user to search for specific things on the web.
 
 * Sebastian Santana: Researching how to implement a .io database so that the discord bot can either use beautiful soup or some other method to find recipes with that database. Also created and helped edit and organize some of the basic discord code as well as researching and learning the varios discord API methods. Lastly coded a basic user calling function for the discord bot to attempt and familiarize myself with the API more. 
  
 * Nisa Lateef: Found a database that is used as a way to allow the user to access basic categories that they desire for their recipe. Coded a welcome page that introduces the bot and it's authors. Also found another database that can be used for recipes to expand the amount of ingridents the bot can recommend. Artifacts correspanding to these can be found in the branch Nisa and integrated into cogs.
 
-* Wilson Benitez:
+* Wilson Benitez: Worked closely with Dalton on setting up the cook command of the bot which allows a user to search through a database and return a recipe with the ingredients. 
 
 
 ## Next Steps
- * Dalton Melville:
+ * Dalton Melville: Continue to search for a larger database of recipes/ingredients as well as having the bot only allow for food searching on the web or instead of returning a link, have it return the first 10 search results for the user.
  * Nicole Runas: Continue to learn more about coding in Python and help expand the online searching functionality of the bot.
  * Sebastian Santana: Continue database research and Push more into the programming aspect.
  * Nisa Lateef: Enhancing my skills in python, and further applying them into the project, as well as expanding the bot's                     functionality, by adding a save recipe feature for the user. 
- * Wilson Benitez:
+ * Wilson Benitez: Continue to learn more about the discord API and familiarize myself with how commands/events work as well as continue working on the searching of the database such that it will be specific to what the user has available.
  
  ## Retrospective
  What Went Well or maybe not?
- * Team needs to communicate more as well as outline tasks and assess what everyone can and can not do. The basic creation of the bot went relatively well but we need to wor on overall group understanding. The group should try and meet every week to discuss goals and updates on the project outside of class for at least 1 hour. 
+ * Team needs to communicate more as well as outline tasks and assess what everyone can and can not do. The basic creation of the bot went relatively well but we need to work on overall group understanding. The group should try and meet every week to discuss goals and updates on the project outside of class for at least 1 hour. 
  
  
 (Team) Four or more team bullets
@@ -74,7 +74,7 @@
 
 
 (Individual) One bullet per team member.
-* Dalton Melivlle:
+* Dalton Melivlle: 
 
 * Nicole Runas: I feel like I was able to get more comfortable wokring in a new coding language and trying to utilize using new design patterns.
 
@@ -93,14 +93,14 @@ What Can We do to Improve?
 (Team) One or more team bullets
 * Meet outside of class
 * Communicate when commits/changes are being made
-* Notify the team when stuggling with a certain aspect of their assigned task
-* Ask teammates questions and communicate about any roadbloacks
+* Notify the team when struggling with a certain aspect of their assigned task
+* Ask teammates questions and communicate about any roadblocks
 
 
 (Individual) One bullet per team member with specific,
 measurable improvement action described
 
-* Nicole Runas: To improve my skills, I will attempt to create my own dscord bots outside of the class and try to expland their functionality to learn more about integrating bots with apis and utilizing other design patters. I will upload key bits of working code onto my personal repositories to track my progress.
+* Nicole Runas: To improve my skills, I will attempt to create my own dscord bots outside of the class and try to expand their functionality to learn more about integrating bots with apis and utilizing other design patters. I will upload key bits of working code onto my personal repositories to track my progress.
 
 * Dalton Melivlle:
 
