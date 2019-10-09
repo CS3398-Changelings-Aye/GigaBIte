@@ -58,7 +58,7 @@
  * Dalton Melville:
  * Nicole Runas: Continue to learn more about coding in Python and help expand the online searching functionality of the bot.
  * Sebastian Santana: Continue database research and Push more into the programming aspect.
- * Nisa Lateef: Enhancing my skills in python, and further applying them into the project, as well as expanding the bot's                     functionality.
+ * Nisa Lateef: Enhancing my skills in python, and further applying them into the project, as well as expanding the bot's                     functionality, by adding a save recipe feature for the user. 
  * Wilson Benitez:
  
  ## Retrospective
