@@ -49,7 +49,7 @@
 
 * Sebastian Santana: Researching how to implement a .io database so that the discord bot can either use beautiful soup or some other method to find recipes with that database. Also created and helped edit and organize some of the basic discord code as well as researching and learning the varios discord API methods. Lastly coded a basic user calling function for the discord bot to attempt and familiarize myself with the API more. 
  
-* Nisa Lateef: Found a database that is used as a way to allow the user to access basic categories that they desire for their recipe. Coded a welcome page that introduces the bot and it's authors. Also found another database that can be used for recipes to expand the amount of ingridents the bot can recommend. 
+* Nisa Lateef: Found a database that is used as a way to allow the user to access basic categories that they desire for their recipe. Coded a welcome page that introduces the bot and it's authors. Also found another database that can be used for recipes to expand the amount of ingridents the bot can recommend. Artifacts correspanding to these can be found in the branch Nisa and integrated into cogs.
 
 * Wilson Benitez:
 
@@ -67,7 +67,7 @@
  
  
 (Team) Four or more team bullets
-* We we're able to get a considerable amount done, even though we had more we wanted to do. We were able to get some fully functional code and have the bot work.
+* We were able to get a considerable amount done, even though we had more we wanted to do. We were able to get some fully functional code and have the bot work.
 * We had many great ideas that need to be expanded upon and borken down more into workable points for the next sprint.
 * Different team memebers not familiar with the programming language stepped up and contributed code to the overall project, furthering the team's progress and their own understanding.
 * Team memebers were individually proactive and assigned themseles previously unassigned tasks to further along the project.
