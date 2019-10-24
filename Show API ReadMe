@@ -1,0 +1,17 @@
+I've reaserched multiple TV show apis
+
+Some require subsciptions or payments to use them, others are free, and others offer a free trial.
+
+The below are links to the websites that host the api:
+
+Guidebox
+https://www.guidebox.com/?gclid=Cj0KCQjwl8XtBRDAARIsAKfwtxColjE1TJ9WfUmo_MUAGnYiX8PRceznfCIxAR4IaLGxeqxGwrel9HEaAhFUEALw_wcB
+offers a free trial, does require payment, return is not known, assumed json
+
+Episodate
+https://www.episodate.com/api
+appears free, offers examples on how to use on webpage, returns json
+
+Track API
+https://trakt.docs.apiary.io/#
+free, returns jason
