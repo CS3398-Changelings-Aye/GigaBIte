@@ -5,7 +5,9 @@ import re
 from bs4 import BeautifulSoup
 import csv
 from itertools import zip_longest
+import aiohttp
 import requests
+
 
 
 class Ingredients(commands.Cog):
@@ -51,17 +53,57 @@ class Ingredients(commands.Cog):
 
     @commands.command()
     async def Search(self, ctx, *, userinput):
-
         print(userinput)
-        soup = BeautifulSoup(userinput, 'html.parser')
-        with requests.Session() as k:
-            url = 'https://www.google.com/search?q='
-            userinput = {'q': userinput}
-            link = requests.get(url, params=userinput)
-        em = discord.Embed(title="Search Results", description="Here is your results")
-        em.colour = 0xFFFA
-        em.add_field(name="Link to site", value=link.url)
-        await ctx.send(embed=em)
+        searchlist = []
+        async with aiohttp.ClientSession() as session:
+            url = 'https://www.google.com/search?'
+            line = "What can I make with "
+            userinput = {'q': line + userinput}
+            link = session.get(url, params=userinput)
+            x = await link
+
+            # var = ([''.join(n.split()) for n in str(x)])
+            search = re.findall(r'(https?://[^)\s]+)', str(x))
+            searchlist.append(search)
+            for x in range(len(searchlist)):
+                y = ''.join(search)
+            print(y)
+            data = requests.get(y)
+            em = discord.Embed(title="Search Results", description="Here is your results")
+            em.colour = 0xFFFA
+            em.add_field(name="Link to site", value=str(search))
+            await ctx.send(embed=em)
+
+            soup = BeautifulSoup(data.text, 'html.parser')
+            print(soup)
+
+    @commands.Cog.listener()
+    async def on_reaction_add(self, reaction, user):
+        star = self.bot.get_emoji(638487897430949918)
+        if reaction.emoji == '{star}':
+            print("OwO")
+
+        # soup = BeautifulSoup(userinput, 'html.parser')
+        # async with aiohttp.ClientSession() as session:
+        #     url = 'https://www.google.com/search?q='
+        #     userinput = {'q': userinput}
+        #     link = session.get(url, params=userinput)
+        # em = discord.Embed(title="Search Results", description="Here is your results")
+        # em.colour = 0xFFFA
+        # em.add_field(name="Link to site", value=str(link))
+        # await ctx.send(embed=em)
+
+
+
+        #
+        # with requests.Session() as k:
+        #     url = 'https://www.google.com/search?q='
+        #     userinput = {'q': userinput}
+        #     link = requests.get(url, params=userinput)
+        # em = discord.Embed(title="Search Results", description="Here is your results")
+        # em.colour = 0xFFFA
+        # em.add_field(name="Link to site", value=link.url)
+        # await ctx.send(embed=em)
 
 
 def setup(bot):

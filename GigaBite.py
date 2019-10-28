@@ -24,6 +24,7 @@ async def on_ready():
     print('Guilds: ', str(len(bot.guilds)))
     print('Users: ', str(len(set(bot.get_all_members()))))
 
+
 @bot.command(pass_context=True, aliases=["Clear"])
 @commands.has_permissions(administrator=True)
 async def clear(ctx, number: int):
@@ -33,7 +34,6 @@ async def clear(ctx, number: int):
 
 for file in os.listdir('cogs'):
     name = file[:-3]
-    print(name)
     try:
         if file.endswith('.py'):
             bot.load_extension("cogs.{}".format(name))
