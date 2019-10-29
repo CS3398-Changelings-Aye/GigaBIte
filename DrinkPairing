@@ -1,0 +1,16 @@
+import discord
+from discord.ext import commands
+
+class Information(commands.Cog):
+
+    def __init__(self, bot):
+        self.bot = bot
+
+
+    @commands.command(pass_context=True)
+    async def drinks(self, ctx):
+        await ctx.send ("Here are a few reccomneded drink pairings for your meals!")
+
+
+def setup(bot):
+    bot.add_cog(Information(bot))
