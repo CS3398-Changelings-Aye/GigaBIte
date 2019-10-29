@@ -75,7 +75,32 @@ class Ingredients(commands.Cog):
             await ctx.send(embed=em)
 
             soup = BeautifulSoup(data.text, 'html.parser')
-            print(soup)
+            recipelist = []
+            Recipe = soup.find_all('div')
+            p = (str(Recipe).split())
+            p.sort()
+            print(p)
+            print('\n' + str(Recipe))
+            recipelist.append(soup)
+            # for s in range(len(recipelist)):
+                # print(soup)
+                # print(soup.get_text('', strip=True))
+
+    @commands.command()
+    async def IS(self, ctx, *, userinput):
+        searchlist = []
+        async with aiohttp.ClientSession() as session:
+            url = 'https://www.google.com/search?tbm=isch&q'
+            userinput = {'q': userinput}
+            link = session.get(url, params=userinput)
+            x = await link
+
+            # var = ([''.join(n.split()) for n in str(x)])
+            search = re.findall(r'(https?://[^)\s]+)', str(x))
+            searchlist.append(search)
+            for x in range(len(searchlist)):
+                y = ''.join(search)
+            print(y)
 
     @commands.Cog.listener()
     async def on_reaction_add(self, reaction, user):
