@@ -61,3 +61,52 @@
  * Nisa Lateef: Enhancing my skills in python, and further applying them into the project, as well as expanding the bot's                     functionality, by adding a save recipe feature for the user. 
  * Wilson Benitez: Continue to learn more about the discord API and familiarize myself with how commands/events work as well as continue working on the searching of the database such that it will be specific to what the user has available.
 
+
+## Retrospective
+ What Went Well or maybe not?
+ * Team needs to communicate more as well as outline tasks and assess what everyone can and can not do. The basic creation of the bot went relatively well but we need to work on overall group understanding. The group should try and meet every week to discuss goals and updates on the project outside of class for at least 1 hour. 
+
+
+(Team) Four or more team bullets
+* We were able to get a considerable amount done, even though we had more we wanted to do. We were able to get some fully functional code and have the bot work.
+* We had many great ideas that need to be expanded upon and borken down more into workable points for the next sprint.
+* Different team memebers not familiar with the programming language stepped up and contributed code to the overall project, furthering the team's progress and their own understanding.
+* Team memebers were individually proactive and assigned themseles previously unassigned tasks to further along the project.
+
+
+(Individual) One bullet per team member.
+* Dalton Melivlle: I feel like I was able to expand my knowledge of Pyhton along with with a wider range of what bots are capable of. Unfortunately I feel like we could manage our times better in order to communicate well.
+
+* Nicole Runas: I feel like I was able to get more comfortable wokring in a new coding language and trying to utilize using new design patterns.
+
+* Sebastian Santana: I feel like I learned a lot of the basic fundamentals during this sprint but due to a lack of communication I feel like a lot of time was not very well spent on my end. I need to push for better communication with my team and learn to manage time better.
+
+* Nisa Lateef: I had coded in python before for a bit, but applying the skills I had learned to code a discord bot was interesting. I was able to feel more comfortable with using a different language then the ones I normally use. In the future, I would like to manage my time better, and communicate better with the team whenever I am stuck.
+
+* Wilson Benitez: 
+
+What Might Be Impeding Us from Performing Better?
+  (Team) One or more team bullets
+  * The team need to find time where everyone can meet outside of class to discuss the project.
+
+What Can We do to Improve?
+
+(Team) One or more team bullets
+* Meet outside of class
+* Communicate when commits/changes are being made
+* Notify the team when struggling with a certain aspect of their assigned task
+* Ask teammates questions and communicate about any roadblocks
+
+
+(Individual) One bullet per team member with specific,
+measurable improvement action described
+
+* Nicole Runas: To improve my skills, I will attempt to create my own dscord bots outside of the class and try to expand their functionality to learn more about integrating bots with apis and utilizing other design patters. I will upload key bits of working code onto my personal repositories to track my progress.
+
+* Dalton Melville: Get better at Communicating with the team to ensure we know what each other is working on
+
+* Sebastian Santana: Communicate and meet up more. We need to be able to understand where and what everyone is doing or how they are understanding the project. 
+
+* Nisa Lateef: Once a week, it's important to meet up with the team so we can discuss the project and help out whenever someone doesn't understand something. 
+
+* Wilson Benitez: Get more familiarized with the discord api, get better at time management to contribute to the project.
