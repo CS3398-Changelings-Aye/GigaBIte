@@ -128,7 +128,7 @@ What Went Well or maybe not?
 * Nicole Runas: What went well for me was expanding my knowledge on creating and implementing cogs. I also think the team communication was a lot stronger this time around, as well. What did not go weel was splitting up larger tasks instead of tackling them as a team.
 * Sebastian Santana: 
 * Nisa Lateef: 
-* Wilson Benitez: 
+* Wilson Benitez: What went smooth for me was finding the link to search images on google, but having to put it in discord was difficult
 
 What Might Be Impeding Us from Performing Better?
   (Team) One or more team bullets
@@ -151,11 +151,11 @@ measurable improvement action described
 * Sebastian Santana: 
 * Nisa Lateef:  
 
-* Wilson Benitez: 
+* Wilson Benitez: Improvment came from asking help from my team, help me use the right API function to get it to display properly.
 
 ## Next Steps 2
  * Dalton Melville: Next step is to look into Databases and be able to complete the user search database, as well as the Image search database.
  * Nicole Runas: My next step is to expand the drink options that the bot give and research how to add specificality to each entre.
  * Sebastian Santana: 
  * Nisa Lateef: 
- * Wilson Benitez: 
+ * Wilson Benitez: My next steps is to put images in a package and have us pull from that packet if it has been search.
