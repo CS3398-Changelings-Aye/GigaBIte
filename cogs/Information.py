@@ -8,14 +8,18 @@ class Information(commands.Cog):
 
 
     @commands.command(pass_context=True)
-    async def info(self, ctx):
-        em = discord.Embed(title="Chef G Information!", description="How may I help you today? PLease spell out the number for your question.")
+    async def drinks(self, ctx):
+        em = discord.Embed(title="Drink Pairing", description="Here are a few recommendations for drinks to pair with your meals.")
         em.set_author(name=str(self.bot.user.name))
         em.colour = 0x000000
-        em.add_field(name="One", value="My name is Chef G and I am here to help you find recipes with the ingredients you have!")
-        em.add_field(name= "Two", value="Simply send me the name of an ingredient that you have! I'll take care of the rest.")
-        em.add_field(name= "Three",  value="I'll send you a few recipes that I find with the ingredient you listed.")
+        em.add_field(name="Red Meat", value="Beers, such as porters and stouts are good with beef, as well as white or red wine and whiskey.")
+        em.add_field(name= "White Meat", value="Pale Ales, Sake, full bodied red or white wines, as well as a gin or tonic pair well with poultry.")
+        em.add_field(name= "Seafood",  value="Citrus margaritas, a Bloody Mary, or Bourbon pair best with seafood.")
+        em.add_field(name= "Pasta",  value="For red sauces, I suggest a classic red wine. For white sauces, IPA beer or Chardonay.")
+        em.add_field(name= "Vegetables",  value="If your vegetables are roasted, try a rich red, like Merlot. For more buttery veggies, try a Chardonay.")
         await ctx.send(embed=em)
+
+
 
 def setup(bot):
     bot.add_cog(Information(bot))

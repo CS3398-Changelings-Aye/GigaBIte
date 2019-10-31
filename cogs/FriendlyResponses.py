@@ -6,7 +6,6 @@ class Information(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
 
-
     @commands.command(pass_context=True)
     async def hello(self, ctx):
         await ctx.send ("Hello! What are we cooking today?")

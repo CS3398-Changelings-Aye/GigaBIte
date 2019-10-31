@@ -37,6 +37,5 @@ class Moderation(commands.Cog):
         msg = ctx.message
         await msg.delete()
 
-
 def setup(bot):
     bot.add_cog(Moderation(bot))
