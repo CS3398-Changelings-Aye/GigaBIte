@@ -125,7 +125,7 @@ What Went Well or maybe not?
 
 (Individual) One bullet per team member.
 * Dalton Melivlle: What didn't go well was being able to be up to par on having Categories completed, as well as being able to create a database based on user input. What went well was being able to add miscellaneous, and moderation. 
-* Nicole Runas: 
+* Nicole Runas: What went well for me was expanding my knowledge on creating and implementing cogs. I also think the team communication was a lot stronger this time around, as well. What did not go weel was splitting up larger tasks instead of tackling them as a team.
 * Sebastian Santana: 
 * Nisa Lateef: 
 * Wilson Benitez: 
@@ -146,7 +146,7 @@ What Can We do to Improve?
 (Individual) One bullet per team member with specific,
 measurable improvement action described
 
-* Nicole Runas: 
+* Nicole Runas: My improvement stemmed from team communication and taking the time to build my own bot separately from the team. Currently, I am researching using a drink database.
 * Dalton Melville: Improvement that came was being able to communicate with the team, and being able to expand my knowledge in Databases, Python, and Discord bots.
 * Sebastian Santana: 
 * Nisa Lateef:  
@@ -155,7 +155,7 @@ measurable improvement action described
 
 ## Next Steps 2
  * Dalton Melville: Next step is to look into Databases and be able to complete the user search database, as well as the Image search database.
- * Nicole Runas: 
+ * Nicole Runas: My next step is to expand the drink options that the bot give and research how to add specificality to each entre.
  * Sebastian Santana: 
  * Nisa Lateef: 
  * Wilson Benitez: 
