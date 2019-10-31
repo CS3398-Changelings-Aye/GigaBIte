@@ -154,7 +154,7 @@ measurable improvement action described
 * Wilson Benitez: 
 
 ## Next Steps 2
- * Dalton Melville: 
+ * Dalton Melville: Next step is to look into Databases and be able to complete the user search database, as well as the Image search database.
  * Nicole Runas: 
  * Sebastian Santana: 
  * Nisa Lateef: 
