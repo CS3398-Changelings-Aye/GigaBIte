@@ -23,9 +23,9 @@
 * [Features](#features)
 * [Contributions](#contributions)
 * [Retrospective](#Retrospective)
-* [Next Steps](#NextSteps)
-* [Retrospective 2](#Retrospective2)
-* [Next Steps 2](#NextSteps2)
+* [Next Steps](#Next-Steps)
+* [Retrospective 2](#Retrospective-2)
+* [Next Steps 2](#Next-Steps-2)
 
 
 ## General Info
