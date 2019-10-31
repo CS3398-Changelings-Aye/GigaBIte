@@ -22,6 +22,11 @@
 * [Technologies](#technologies)
 * [Features](#features)
 * [Contributions](#contributions)
+* [Retrospective](#Retrospective)
+* [Next Steps](#Next Steps)
+* [Retrospective 2](#Retrospective2)
+* [Next Steps 2](#NextSteps2)
+
 
 ## General Info
   If you would like to invite the bot to your discord, [Please Click Here](https://discordapp.com/api/oauth2/authorize?client_id=623906771500662795&permissions=0&scope=bot)
@@ -149,7 +154,7 @@ What Can We do to Improve?
 measurable improvement action described
 
 * Nicole Runas: My improvement stemmed from team communication and taking the time to build my own bot separately from the team. Currently, I am researching using a drink database.
-* Dalton Melville: Improvement that came was being able to communicate with the team, and being able to expand my knowledge in Databases, Python, and Discord bots.
+* Dalton Melville: Work on time management and team communications, be able to communicate with the team when we should be able to meet.
 * Sebastian Santana: 
 * Nisa Lateef: To improve, I'm going to work on reaching out to my teammembers whenever I hit a roadblock. 
 * Wilson Benitez: Improvment came from asking help from my team, help me use the right API function to get it to display properly.
