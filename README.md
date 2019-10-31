@@ -125,9 +125,9 @@ What Went Well or maybe not?
 
 (Individual) One bullet per team member.
 * Dalton Melivlle: What didn't go well was being able to be up to par on having Categories completed, as well as being able to create a database based on user input. What went well was being able to add miscellaneous, and moderation. 
-* Nicole Runas: What went well for me was expanding my knowledge on creating and implementing cogs. I also think the team communication was a lot stronger this time around, as well. What did not go weel was splitting up larger tasks instead of tackling them as a team.
+* Nicole Runas: What went well for me was expanding my knowledge on creating and implementing cogs. I also think the team communication was a lot stronger this time around, as well. What did not go well was splitting up larger tasks instead of tackling them as a team.
 * Sebastian Santana: 
-* Nisa Lateef: 
+* Nisa Lateef: What went well was that I learned more about programming using discord.py from my other team members which ended up helping all of us. What did not go well was we didn't meet up as much as we could. 
 * Wilson Benitez: What went smooth for me was finding the link to search images on google, but having to put it in discord was difficult
 
 What Might Be Impeding Us from Performing Better?
@@ -149,7 +149,7 @@ measurable improvement action described
 * Nicole Runas: My improvement stemmed from team communication and taking the time to build my own bot separately from the team. Currently, I am researching using a drink database.
 * Dalton Melville: Improvement that came was being able to communicate with the team, and being able to expand my knowledge in Databases, Python, and Discord bots.
 * Sebastian Santana: 
-* Nisa Lateef:  
+* Nisa Lateef: My improvement was committing working code that didn't require much editing. I was also able to communicate with the team more whenever I didn't understand or some code of mine wasn't working.
 
 * Wilson Benitez: Improvment came from asking help from my team, help me use the right API function to get it to display properly.
 
@@ -157,5 +157,5 @@ measurable improvement action described
  * Dalton Melville: Next step is to look into Databases and be able to complete the user search database, as well as the Image search database.
  * Nicole Runas: My next step is to expand the drink options that the bot give and research how to add specificality to each entre.
  * Sebastian Santana: 
- * Nisa Lateef: 
+ * Nisa Lateef: My next step is to figure out an ingridient image search database and to work on the youtube search function so we could add more functionality.
  * Wilson Benitez: My next steps is to put images in a package and have us pull from that packet if it has been search.
