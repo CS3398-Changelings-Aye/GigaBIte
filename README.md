@@ -8,7 +8,7 @@
   
   ## Status
   * InProgress: Beta Testing. 
-  * Our bot Currently has functionality on a small number of servers and can complete simple tasks to engage the user and return recipes from a database as well as search the web for more specific ingredients or recipes and return the data.
+  * Our bot Currently has functionality on a small number of servers and can complete simple tasks to engage the user as well as allow the user to search through Youtube, HEB, Google, and Google Images to find pictures of food that the user may want.
   
   ## Team Members:
   > Dalton Melville,
@@ -110,3 +110,52 @@ measurable improvement action described
 * Nisa Lateef: Once a week, it's important to meet up with the team so we can discuss the project and help out whenever someone doesn't understand something. 
 
 * Wilson Benitez: Get more familiarized with the discord api, get better at time management to contribute to the project.
+
+## Retrospective 2
+What Went Well or maybe not?
+ * Team needs to communicate more as well as outline tasks and assess what everyone can and can not do. The basic creation of the bot went relatively well but we need to work on overall group understanding. The group should try and meet every week to discuss goals and updates on the project outside of class for at least 1 hour. 
+
+
+(Team) Four or more team bullets
+* We were able to get a considerable amount done, even though we had more we wanted to do. We were able to get some fully functional code and have the bot work.
+* We had many great ideas that need to be expanded upon and borken down more into workable points for the next sprint.
+* Different team memebers not familiar with the programming language stepped up and contributed code to the overall project, furthering the team's progress and their own understanding.
+* Team memebers were individually proactive and assigned themseles previously unassigned tasks to further along the project.
+
+
+(Individual) One bullet per team member.
+* Dalton Melivlle: What didn't go well was being able to be up to par on having Categories completed, as well as being able to create a database based on user input. What went well was being able to add miscellaneous, and moderation. 
+* Nicole Runas: 
+* Sebastian Santana: 
+* Nisa Lateef: 
+* Wilson Benitez: 
+
+What Might Be Impeding Us from Performing Better?
+  (Team) One or more team bullets
+  * The team need to find time where everyone can meet outside of class to discuss the project.
+
+What Can We do to Improve?
+
+(Team) One or more team bullets
+* Meet outside of class
+* Communicate when commits/changes are being made
+* Notify the team when struggling with a certain aspect of their assigned task
+* Ask teammates questions and communicate about any roadblocks
+
+
+(Individual) One bullet per team member with specific,
+measurable improvement action described
+
+* Nicole Runas: 
+* Dalton Melville: Improvement that came was being able to communicate with the team, and being able to expand my knowledge in Databases, Python, and Discord bots.
+* Sebastian Santana: 
+* Nisa Lateef:  
+
+* Wilson Benitez: 
+
+## Next Steps 2
+ * Dalton Melville: 
+ * Nicole Runas: 
+ * Sebastian Santana: 
+ * Nisa Lateef: 
+ * Wilson Benitez: 
