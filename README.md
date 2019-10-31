@@ -127,12 +127,14 @@ What Went Well or maybe not?
 * Dalton Melivlle: What didn't go well was being able to be up to par on having Categories completed, as well as being able to create a database based on user input. What went well was being able to add miscellaneous, and moderation. 
 * Nicole Runas: What went well for me was expanding my knowledge on creating and implementing cogs. I also think the team communication was a lot stronger this time around, as well. What did not go well was splitting up larger tasks instead of tackling them as a team.
 * Sebastian Santana: 
-* Nisa Lateef: What went well was that I learned more about programming using discord.py from my other team members which ended up helping all of us. What did not go well was we didn't meet up as much as we could. 
+* Nisa Lateef: What went well was that I learned more about programming using discord.py from my other team members which ended up helping all of us. What did not go well was we didn't meet up as much as we could therefore, we couldn't get as much as we wanted done. 
 * Wilson Benitez: What went smooth for me was finding the link to search images on google, but having to put it in discord was difficult
 
 What Might Be Impeding Us from Performing Better?
   (Team) One or more team bullets
   * The team need to find time where everyone can meet outside of class to discuss the project.
+  * We should be more comfortable to reach out to other team members whenever one of us hits a roadblock
+  * We should be able to error check commands on discord
 
 What Can We do to Improve?
 
@@ -149,8 +151,7 @@ measurable improvement action described
 * Nicole Runas: My improvement stemmed from team communication and taking the time to build my own bot separately from the team. Currently, I am researching using a drink database.
 * Dalton Melville: Improvement that came was being able to communicate with the team, and being able to expand my knowledge in Databases, Python, and Discord bots.
 * Sebastian Santana: 
-* Nisa Lateef: My improvement was committing working code that didn't require much editing. I was also able to communicate with the team more whenever I didn't understand or some code of mine wasn't working.
-
+* Nisa Lateef: To improve, I'm going to work on reaching out to my teammembers whenever I hit a roadblock. 
 * Wilson Benitez: Improvment came from asking help from my team, help me use the right API function to get it to display properly.
 
 ## Next Steps 2
