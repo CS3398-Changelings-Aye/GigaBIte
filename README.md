@@ -23,7 +23,7 @@
 * [Features](#features)
 * [Contributions](#contributions)
 * [Retrospective](#Retrospective)
-* [Next Steps](#Next Steps)
+* [Next Steps](#NextSteps)
 * [Retrospective 2](#Retrospective2)
 * [Next Steps 2](#NextSteps2)
 
