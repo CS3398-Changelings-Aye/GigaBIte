@@ -57,7 +57,7 @@
  
 * Nisa Lateef: Found a database that is used as a way to allow the user to access basic categories that they desire for their recipe. Coded a welcome page that introduces the bot and it's authors. Also found another database that can be used for recipes to expand the amount of ingridents the bot can recommend. Artifacts correspanding to these can be found in the branch Nisa and integrated into cogs.
 
-* Wilson Benitez: Worked closely with Dalton on setting up the cook command of the bot which allows a user to search through a database and return a recipe with the ingredients. Then help write a scipt that goes to google images to pull the top 10 results of the item the client entered. Out of those ten results I pull the best one based off quality and show that next to their result in recipe.
+* Wilson Benitez: Worked closely with Dalton on setting up the cook command of the bot which allows a user to search through a database and return a recipe with the ingredients. 
 
 
 ## Next Steps
@@ -125,7 +125,8 @@ measurable improvement action described
  
 * Nisa Lateef: Coded the images.py file, which is uploaded to cogs in the master branch, and allows the user to search for images of specific ingredients they would like. Also attempted to make save recipe function that can be used in the discord bot. This file wasn't functional (one of the roadblocks), which is why it isn't in cogs in the master branch, however it can be viewed in the Nisa branch in the ingridients.py file. 
 
-* Wilson Benitez: 
+* Wilson Benitez: Helped write a scipt that goes to google images to pull the top 10 results of the item the client entered. Out of those ten results I pull the best one based off quality and show that next to their result in recipe.
+
 ## Retrospective 2
 What Went Well or maybe not?
  * Team needs to communicate more as well as outline tasks and assess what everyone can and can not do. The basic creation of the bot went relatively well but we need to work on overall group understanding. The group should try and meet every week to discuss goals and updates on the project outside of class for at least 1 hour. 
