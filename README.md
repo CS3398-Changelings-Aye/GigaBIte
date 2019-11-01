@@ -24,6 +24,7 @@
 * [Contributions](#contributions)
 * [Retrospective](#Retrospective)
 * [Next Steps](#Next-Steps)
+* [Contributions2](#contributions-2)
 * [Retrospective 2](#Retrospective-2)
 * [Next Steps 2](#Next-Steps-2)
 
@@ -116,6 +117,15 @@ measurable improvement action described
 
 * Wilson Benitez: Get more familiarized with the discord api, get better at time management to contribute to the project.
 
+## Contributions 2
+* Nicole Runas: 
+* Dalton Melivlle: Created Moderation for the bot so that members that can't behave will be kicked/banned. Was working on the user made database but ran into a roadblock concerning the html code to parse.
+
+* Sebastian Santana: 
+ 
+* Nisa Lateef: 
+
+* Wilson Benitez: 
 ## Retrospective 2
 What Went Well or maybe not?
  * Team needs to communicate more as well as outline tasks and assess what everyone can and can not do. The basic creation of the bot went relatively well but we need to work on overall group understanding. The group should try and meet every week to discuss goals and updates on the project outside of class for at least 1 hour. 
