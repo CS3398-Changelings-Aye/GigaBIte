@@ -123,7 +123,7 @@ measurable improvement action described
 
 * Sebastian Santana: 
  
-* Nisa Lateef: 
+* Nisa Lateef: Uploaded the images.py file that allows the user to search for specific ingredients they would like. Also attempted to make save recipe function that can be used in the discord bot. This file wasn't functional (one of the roadblocks), which is why it isn't in cogs, however it can be viewed in the Nisa branch in the ingridients.py file. 
 
 * Wilson Benitez: 
 ## Retrospective 2
