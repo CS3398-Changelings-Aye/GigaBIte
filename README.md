@@ -165,13 +165,13 @@ measurable improvement action described
 
 * Nicole Runas: My improvement stemmed from team communication and taking the time to build my own bot separately from the team. Currently, I am researching using a drink database.
 * Dalton Melville: Work on time management and team communications, be able to communicate with the team when we should be able to meet. What I've improved on is being able to communicate a bit better with the team. I've improved being able to learn about api's and discord bots.
-* Sebastian Santana: 
+* Sebastian Santana: We need to work better to communicate on code as a whole and put more time into having at least an hour a day meetings. 
 * Nisa Lateef: To improve, I'm going to work on reaching out to my teammembers whenever I hit a roadblock. I was able to enhance my knowledge in discord.py and was able to contribute more to this sprint.  
 * Wilson Benitez: Improvment came from asking help from my team, help me use the right API function to get it to display properly.
 
 ## Next Steps 2
  * Dalton Melville: Next step is to look into Databases and be able to complete the user search database, as well as the Image search database.
  * Nicole Runas: My next step is to expand the drink options that the bot give and research how to add specificality to each entre.
- * Sebastian Santana: 
+ * Sebastian Santana: My next step is to figure out how to implement websearching and youtube return ffunctionality.
  * Nisa Lateef: My next step is to figure out a way to save favorited recipes for the user to access later and to work on the youtube search function so we could add more functionality.
  * Wilson Benitez: My next steps is to put images in a package and have us pull from that packet if it has been search.
