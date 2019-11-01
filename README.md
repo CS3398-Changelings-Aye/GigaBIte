@@ -57,7 +57,7 @@
  
 * Nisa Lateef: Found a database that is used as a way to allow the user to access basic categories that they desire for their recipe. Coded a welcome page that introduces the bot and it's authors. Also found another database that can be used for recipes to expand the amount of ingridents the bot can recommend. Artifacts correspanding to these can be found in the branch Nisa and integrated into cogs.
 
-* Wilson Benitez: Worked closely with Dalton on setting up the cook command of the bot which allows a user to search through a database and return a recipe with the ingredients. 
+* Wilson Benitez: Worked closely with Dalton on setting up the cook command of the bot which allows a user to search through a database and return a recipe with the ingredients. Then help write a scipt that goes to google images to pull the top 10 results of the item the client entered. Out of those ten results I pull the best one based off quality and show that next to their result in recipe.
 
 
 ## Next Steps
