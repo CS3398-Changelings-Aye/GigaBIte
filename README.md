@@ -154,7 +154,7 @@ What Can We do to Improve?
 measurable improvement action described
 
 * Nicole Runas: My improvement stemmed from team communication and taking the time to build my own bot separately from the team. Currently, I am researching using a drink database.
-* Dalton Melville: Work on time management and team communications, be able to communicate with the team when we should be able to meet.
+* Dalton Melville: Work on time management and team communications, be able to communicate with the team when we should be able to meet. What I've improved on is being able to communicate a bit better with the team. I've improved being able to learn about api's and discord bots.
 * Sebastian Santana: 
 * Nisa Lateef: To improve, I'm going to work on reaching out to my teammembers whenever I hit a roadblock. 
 * Wilson Benitez: Improvment came from asking help from my team, help me use the right API function to get it to display properly.
