@@ -57,7 +57,7 @@
  
 * Nisa Lateef: Found a database that is used as a way to allow the user to access basic categories that they desire for their recipe. Coded a welcome page that introduces the bot and it's authors. Also found another database that can be used for recipes to expand the amount of ingridents the bot can recommend. Artifacts correspanding to these can be found in the branch Nisa and integrated into cogs.
 
-* Wilson Benitez: Worked closely with Dalton on setting up the cook command of the bot which allows a user to search through a database and return a recipe with the ingredients. 
+* Wilson Benitez: Worked closely with Dalton on setting up the cook command of the bot which allows a user to search through a database and return a recipe with the ingredients. Also made sure that any extra information was dumped out and only showed the important parts of the recipe. Made sure it looked nice, space wise and capitalization, even color.
 
 
 ## Next Steps
@@ -89,7 +89,7 @@
 
 * Nisa Lateef: I had coded in python before for a bit, but applying the skills I had learned to code a discord bot was interesting. I was able to feel more comfortable with using a different language then the ones I normally use. In the future, I would like to manage my time better, and communicate better with the team whenever I am stuck.
 
-* Wilson Benitez: 
+* Wilson Benitez: I learned alot on how python reads data from a database and how to store it and manipulate it to give you only what is needed and not a heap of data. So function too that help with everything looking even better format wise.
 
 What Might Be Impeding Us from Performing Better?
   (Team) One or more team bullets
