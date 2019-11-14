@@ -121,7 +121,7 @@ measurable improvement action described
 * Nicole Runas: 
 * Dalton Melivlle: Created Moderation for the bot so that members that can't behave will be kicked/banned. Was working on the user made database but ran into a roadblock concerning the html code to parse.
 
-* Sebastian Santana: 
+* Sebastian Santana: Helped create a basic youtube search functionality as well as some quality of life upgrades to the bot work and action events. 
  
 * Nisa Lateef: Coded the images.py file, which is uploaded to cogs in the master branch, and allows the user to search for images of specific ingredients they would like. Also attempted to make save recipe function that can be used in the discord bot. This file wasn't functional (one of the roadblocks), which is why it isn't in cogs in the master branch, however it can be viewed in the Nisa branch in the ingridients.py file. 
 
@@ -142,7 +142,7 @@ What Went Well or maybe not?
 (Individual) One bullet per team member.
 * Dalton Melivlle: What didn't go well was being able to be up to par on having Categories completed, as well as being able to create a database based on user input. What went well was being able to add miscellaneous, and moderation. 
 * Nicole Runas: What went well for me was expanding my knowledge on creating and implementing cogs. I also think the team communication was a lot stronger this time around, as well. What did not go well was splitting up larger tasks instead of tackling them as a team.
-* Sebastian Santana: 
+* Sebastian Santana: There was a variety of roadblocks in learning and implementing youtube functionality and video functionality. Discord implementation of such simple functions is not as simple as it seems
 * Nisa Lateef: What went well was that I learned more about programming using discord.py from my other team members which ended up helping all of us. What did not go well was it was quite difficult to figure out the save recipe feature for this sprint, and therefore, it couldn't be implemented the way we wanted it to be implemented. 
 * Wilson Benitez: What went smooth for me was finding the link to search images on google, but having to put it in discord was difficult
 
