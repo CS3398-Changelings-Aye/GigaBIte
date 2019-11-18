@@ -118,7 +118,7 @@ measurable improvement action described
 * Wilson Benitez: Get more familiarized with the discord api, get better at time management to contribute to the project.
 
 ## Contributions 2
-* Nicole Runas: 
+* Nicole Runas: Created a menu for alcoholic drink pariring for the mzin course. Error checked existing code to improve code health.Drink code is uploaded into the cogs and in my personal branch.
 * Dalton Melivlle: Created Moderation for the bot so that members that can't behave will be kicked/banned. Was working on the user made database but ran into a roadblock concerning the html code to parse.
 
 * Sebastian Santana: Helped create a basic youtube search functionality as well as some quality of life upgrades to the bot work and action events. 
