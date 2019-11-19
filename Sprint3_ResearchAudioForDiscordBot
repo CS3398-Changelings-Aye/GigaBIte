@@ -1,0 +1,8 @@
+From what I researched, there are a few ways where audio could be added in the discord bot.
+
+I could create a queue system where specefic audio requests are stored in the queue
+https://stackoverflow.com/questions/53605422/discord-py-music-bot-how-to-combine-a-play-and-queue-command 
+
+I could use the spotify API to get the tracks inside a playlist, and use youtube to get the music.
+
+
