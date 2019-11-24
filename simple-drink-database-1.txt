@@ -1,6 +1,6 @@
-red meat, Beers such as porters and stouts, red wine, whiskey, 
-white meat, Pale Ales, Sake, full bodied red wine, full bodied white wine, gin and tonic,
-veggie, Merlot, Chardonay, dry wines
-pasta red sauce, classic red wine, dry wines
-pasta white sauce, IPA beer, Chardonay, sweet wines
-seafood, Citrus Margaritas, Bloody Mary, Bourbon,
+red meat, Beers such as porters and stouts, red wine, whiskey, unsweetened iced tea
+white meat, Pale Ales, Sake, full bodied red wine, full bodied white wine, gin and tonic, sparkling white grape juice
+veggie, Merlot, Chardonay, dry wines, grape juice, sparking water
+pasta red sauce, classic red wine, dry wines, flavored sparkling water
+pasta white sauce, IPA beer, Chardonay, sweet wines, citrus flavored sparkling water
+seafood, Citrus Margaritas, Bloody Mary, Bourbon, lemonade, ginger ale, Shirley Temple
