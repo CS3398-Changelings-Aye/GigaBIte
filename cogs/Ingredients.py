@@ -21,51 +21,6 @@ class Ingredients(commands.Cog):
                 if (userInput.upper() or userInput.lower()) in line:
                     await ctx.send(re.sub("\s\s+", " ", "* " + line.lower().title().strip()))
                     # print(re.sub("\s\s+", " ", "* " + line.lower().title().strip()))
-                    
-var cheerio = require("cheerio"); 
-var request = require("request"); 
- 
-var discord = require("discord.js");
-var client = new discord.Client();
-
-client.login("private token");
- 
-client.on("ready", function() {
-    console.log("logged in");
-});
-
-client.on("message", function(message) {
-    var parts = message.content.split(" ");
-    if (parts[0] === "!Search") { 
-        image(message, parts); 
-    }
-});
- 
-function image(message, parts) {
-    var search = parts.slice(1).join(" "); 
-    var options = {
-        url: "http://results.dogpile.com/serp?qc=images&q=" + search,
-        method: "GET",
-        headers: {
-            "Accept": "text/html",
-            "User-Agent": "Chrome"
-        }
-    };
-    request(options, function(error, response, responseBody) {
-        if (error) {
-            // handle error
-            return;
-        }
-        $ = cheerio.load(responseBody); 
-        var links = $(".image a.link");
-        var urls = new Array(links.length).fill(0).map((v, i) => links.eq(i).attr("href"));
-        console.log(urls);
-        if (!urls.length) {
-            return;
-        }
-        message.channel.send( urls[0] );
-    });
-}
 
 /*                    
 @commands.command()
