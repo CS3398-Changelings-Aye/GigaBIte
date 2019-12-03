@@ -15,6 +15,9 @@ class Information(commands.Cog):
 
     async def question(self, ctx):
         await ctx.send("If you have a question for me, please type '!info' and I'll share what you can ask!")
+        
+    async def goodbye(self, ctx):
+        await ctx.send("I'll be here waiting with your next recipe! Good bye!")
 
 def setup(bot):
     bot.add_cog(Information(bot))
