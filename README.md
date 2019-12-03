@@ -27,6 +27,8 @@
 * [Contributions2](#contributions-2)
 * [Retrospective 2](#Retrospective-2)
 * [Next Steps 2](#Next-Steps-2)
+* [Contributions Final](#contributions-Final)
+* [Retrospective Final](#Retrospective-Final)
 
 
 ## General Info
@@ -176,3 +178,42 @@ measurable improvement action described
  * Sebastian Santana: My next step is to figure out how to implement websearching and youtube return ffunctionality.
  * Nisa Lateef: My next step is to figure out a way to save favorited recipes for the user to access later and to work on the youtube search function so we could add more functionality.
  * Wilson Benitez: My next steps is to put images in a package and have us pull from that packet if it has been search.
+ 
+ ## Contributions Final
+  * Dalton Mellville:
+  
+  * Nicole Runas:
+  
+  * Sebastian Santana:
+  
+  * Nisa Lateef:
+  
+  * Wilson Benitez: 
+  
+ ## Retrospective Final 
+ 
+ What Went Well or maybe not?
+ 
+ (Team) Four or more team bullets
+ 
+ (Individual) One bullet per team member.
+ 
+ What Might Be Impeding Us from Performing Better?
+ 
+ What Can We do to Improve?
+  
+  (Team) One or more team bullets
+ 
+  (Individual) One bullet per team member with specific,
+  measurable improvement action described:
+  
+  * Dalton Mellville:
+  
+  * Nicole Runas:
+  
+  * Sebastian Santana:
+  
+  * Nisa Lateef:
+  
+  * Wilson Benitez: 
+  
