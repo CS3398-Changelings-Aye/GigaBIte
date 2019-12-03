@@ -41,6 +41,8 @@
 * [Discord API](https://discordpy.readthedocs.io/en/latest/api.html)
 * [Digital Ocean](https://www.digitalocean.com)
 * [AirTable](https://airtable.com/universe/expHZcS7kWEyq5gUH/recipe-database)
+* [MyAnimeList](https://myanimelist.net/)
+* [Google](https://google.com)
 
 ## Features
 * Show Searching: Allows the user to search for a show.
