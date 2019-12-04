@@ -182,7 +182,7 @@ measurable improvement action described
  * Wilson Benitez: My next steps is to put images in a package and have us pull from that packet if it has been search.
  
  ## Contributions Final
-  * Dalton Mellville:
+  * Dalton Mellville: Refined the user made database, Created 2 JSON Databases that will hold the Shows and Recipes. Created the addShow command to search through MAL in order to add a show to a local database, added a pick commmand that will randomly pick a show for the user (could also implement to include a recipe with show).
   
   * Nicole Runas: Attempted to create and draw from a database to make the drink piring functionality better. Did not go as planned. However, it increased my knowledge of discrod bots and their functions. Ended up making a more expansive reply list for the bot in regards to drinks. Also, error checked preexisting code to keep it clean and error free, cutting down where necessary.
   
@@ -210,13 +210,16 @@ measurable improvement action described
  * Sebastian Santana: The main thing that went well was that processes implemented didnt end up breaking anything and all road blocks
  were very minor. Only thing that went wrong was github not commiting before vacation in order to finalize testing and implementations. 
  * Nisa Lateef: My idea of implementing idea into the bot did not work as planned and was very difficult to implement. 
+ * Dalton Melville: What did not go well was being able only to pull certain items from the database rather than pull the entire database with a certain command.
  
  What Might Be Impeding Us from Performing Better?
  * Lack of knowledge in a lot of specialty areas of discord bots kept the team from inplemtning all of the cool features we dreamed about adding.
- * The concept of time management and lack of solid group leadership. 
+ * The concept of time management and lack of solid group leadership.
+ * Lack of team communication.
  
  What Can We do to Improve?
  * In the future, we could spend more time learing as a group, rather than individually, and work togtehr more closely on the fucntionality and aspects of the bot.
+ * We can learn to communicate better as a team (Through group messages, discord, slack, etc...) 
   
   (Team) One or more team bullets
   * Better communication and time spent in person with team. Working together closely and testing more. 
@@ -224,7 +227,7 @@ measurable improvement action described
   (Individual) One bullet per team member with specific,
   measurable improvement action described:
   
-  * Dalton Mellville:
+  * Dalton Mellville: In order to improve I believe I should work on sitting down and being more focused than how I am now. I will continue to work with the Python language and APIs in order to familiarize myself with my career path. What I did imporve on was learning more about async and how that works along with being able to manage my time to get my work done in a good pace.
   
   * Nicole Runas:To improve myself, I will keep attempting to create discord bots and spend more time researching a project to make sure that eveything I want to do is within the scope of my immediate ability or learned ability. Throughout this project, I depended less and less on my team mates for guidance as I was able to learn and contibute without much direction. Making my own, albeit simple, bot was imperative to my bettering myself for this project.
   
