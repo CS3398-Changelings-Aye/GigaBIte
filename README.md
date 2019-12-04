@@ -191,7 +191,7 @@ measurable improvement action described
     the youtube feature could have been a bit more cleaned up. Other than these two functions there was slight refractoring done to the 
     existing code and minor edits. 
   
-  * Nisa Lateef:
+  * Nisa Lateef: Attempted to add audio into the bot and be able to play it whenever the user desired. Did not go as planned, however, I learned of different ways to implement creativity into the bot. The code ran, however, it didn't work as I had desired.
   
   * Wilson Benitez: 
   
@@ -203,12 +203,13 @@ measurable improvement action described
  * Communication was the strongest during the last sprint.
  * Able to implement most of the functionality that we desired. 
  * Lack of knowledge and experience with new API's and languages. 
- *
+ * We were able to see what exactly it was that we needed to improve on, and worked on enhancing that.
  
  (Individual) One bullet per team member.
  * Nicole Runas: What did not go well for me was actually implementing the idea that I had. It proved more challenging for me than I though and I had to chnage my idea in order to complete my work.
  * Sebastian Santana: The main thing that went well was that processes implemented didnt end up breaking anything and all road blocks
  were very minor. Only thing that went wrong was github not commiting before vacation in order to finalize testing and implementations. 
+ * Nisa Lateef: My idea of implementing idea into the bot did not work as planned and was very difficult to implement. 
  
  What Might Be Impeding Us from Performing Better?
  * Lack of knowledge in a lot of specialty areas of discord bots kept the team from inplemtning all of the cool features we dreamed about adding.
@@ -232,7 +233,7 @@ measurable improvement action described
   and manage my time more efficiently. Throughout the project time management has been very difficult but slowly I have made some 
   progress with management. 
   
-  * Nisa Lateef:
+  * Nisa Lateef: To improve, I could spend more time coding with python and working with discord bots. I could also work on communicating with my team better whenever I hit a roadblock and ask for their help.
   
   * Wilson Benitez: 
   
