@@ -182,7 +182,7 @@ measurable improvement action described
  * Wilson Benitez: My next steps is to put images in a package and have us pull from that packet if it has been search.
  
  ## Contributions Final
-  * Dalton Mellville: Refined the user made database, Created 2 JSON Databases that will hold the Shows and Recipes. Created the addShow command to search through MAL in order to add a show to a local database, added a pick commmand that will randomly pick a show for the user (could also implement to include a recipe with show).
+  * Dalton Mellville: Refined the user made database (in cogs/Ingredients.py), Created 2 JSON Databases that will hold the Shows and Recipes (in JSONS). Created the addShow command to search through MAL in order to add a show to a local database(in cogs/Anime.py), added a pick commmand that will randomly pick a show for the user (could also implement to include a recipe with show)(cogs/Ingredients.py). Implemented the moderation (cogs/Moderation.py)
   
   * Nicole Runas: Attempted to create and draw from a database to make the drink piring functionality better. Did not go as planned. However, it increased my knowledge of discrod bots and their functions. Ended up making a more expansive reply list for the bot in regards to drinks. Also, error checked preexisting code to keep it clean and error free, cutting down where necessary.
   
