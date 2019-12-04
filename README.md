@@ -193,7 +193,7 @@ measurable improvement action described
   
   * Nisa Lateef: Attempted to add audio into the bot and be able to play it whenever the user desired. Did not go as planned, however, I learned of different ways to implement creativity into the bot. The code ran, however, it didn't work as I had desired.
   
-  * Wilson Benitez: 
+  * Wilson Benitez: Attempted to have an image output with the ingrediants but could only get link to output. Worked on getting the best link possible, the API was tricky else I might've gotten it to spit an image out.
   
  ## Retrospective Final 
  
@@ -211,6 +211,7 @@ measurable improvement action described
  were very minor. Only thing that went wrong was github not commiting before vacation in order to finalize testing and implementations. 
  * Nisa Lateef: My idea of implementing idea into the bot did not work as planned and was very difficult to implement. 
  * Dalton Melville: What did not go well was being able only to pull certain items from the database rather than pull the entire database with a certain command.
+ * Wilson Benitez: What did not go well was messing around with both API's googles and discords and having them send thing to each other fluidly
  
  What Might Be Impeding Us from Performing Better?
  * Lack of knowledge in a lot of specialty areas of discord bots kept the team from inplemtning all of the cool features we dreamed about adding.
@@ -238,5 +239,5 @@ measurable improvement action described
   
   * Nisa Lateef: To improve, I could spend more time coding with python and working with discord bots. I could also work on communicating with my team better whenever I hit a roadblock and ask for their help.
   
-  * Wilson Benitez: 
+  * Wilson Benitez: I could improve my work by focusing more time and looking into better functions in API than just try to figure it out and make it work with debugging it.
   
